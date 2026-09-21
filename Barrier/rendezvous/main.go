@@ -1,3 +1,6 @@
+// Author: Bartosz Liberda
+// Student Number: C00295791
+
 package main
 
 import (
